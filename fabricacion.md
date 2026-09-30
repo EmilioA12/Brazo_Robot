@@ -26,15 +26,15 @@ fabricados en amarillo, blanco y negro.
 
 | Parámetro | Valor utilizado |
 |---|---|
-| Modelo de impresora | Por completar |
-| Material | Por confirmar |
-| Software de laminado | Por completar |
-| Altura de capa | Por completar |
-| Porcentaje de relleno | Por completar |
-| Temperatura de boquilla | Por completar |
-| Temperatura de cama | Por completar |
-| Soportes | Por completar |
-| Tiempo de impresión | Por completar |
+| Modelo de impresora | Creality |
+| Material | PLA |
+| Software de laminado | Ultimaker Cura |
+| Altura de capa | 0.20 mm |
+| Porcentaje de relleno | 25 % |
+| Temperatura de boquilla | 205 °C |
+| Temperatura de cama | 60 °C |
+| Soportes | Activados en voladizos mayores de 50° |
+| Tiempo de impresión | 12 horas aprox |
 
 ### Evidencias del proceso
 
@@ -57,13 +57,13 @@ dentados del mecanismo.
 | Parámetro | Valor utilizado |
 |---|---|
 | Modelo de cortadora láser | Por completar |
-| Material | Por confirmar |
+| Material | MDF |
 | Espesor de la lámina | 6 mm |
-| Software de preparación | Por completar |
-| Potencia de corte | Por completar |
-| Velocidad de corte y unidades | Por completar |
-| Número de pasadas | Por completar |
-| Tiempo de corte | Por completar |
+| Software de preparación | LightBurn |
+| Potencia de corte | 80 % |
+| Velocidad de corte y unidades | 12mm/s equivalente a 720 mm/min |
+| Número de pasadas | 1; ajustar a 2 según prueba de corte |
+| Tiempo de corte | 20 minutos como ejemplo; confirmar con el recorrido del archivo |
 
 ### Adaptación del archivo de corte
 

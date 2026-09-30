@@ -24,17 +24,17 @@ preferentemente una pelota roja de espuma.
 
 ## Equipo de trabajo
 
-- Integrantes: Por completar.
-- Materia: Por completar.
-- Profesor: Por completar.
-- Institución: Por completar.
+- Integrantes: Emilio Acuña.
+- Materia: Integración Mecatrónica.
+- Profesor: Huber Giron, Janet López.
+- Institución: Universidad Iberoamericana.
 
 ## Versiones del robot
 
 | Versión | Proceso de fabricación | Material |
 |---|---|---|
-| Robot impreso en 3D | Impresión 3D de las piezas | Por confirmar |
-| Robot cortado en láser | Corte de las piezas a partir de lámina | Por confirmar |
+| Robot impreso en 3D | Impresión 3D de las piezas | PLA |
+| Robot cortado en láser | Corte de las piezas a partir de lámina | MDF |
 
 ## Contenido de la documentación
 
