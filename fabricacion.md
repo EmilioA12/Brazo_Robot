@@ -65,6 +65,13 @@ dentados del mecanismo.
 | Número de pasadas | Por completar |
 | Tiempo de corte | Por completar |
 
+### Adaptación del archivo de corte
+
+Se utilizó material de **6 mm de espesor**. El DXF original
+estaba identificado para 3 mm y fue modificado en el taller
+antes del corte. La versión modificada no está disponible;
+el archivo descargable corresponde al diseño de referencia.
+
 ### Evidencias del proceso
 
 Pendiente de incorporar: capturas de la configuración,
