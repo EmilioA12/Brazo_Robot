@@ -4,7 +4,7 @@ title: Inicio
 nav_order: 1
 ---
 
-# Brazo robótico: impresión 3D y corte láser
+# Brazo robot: impresión 3D y corte láser
 
 <p class="fs-6 fw-300">
   Fabricación de dos versiones de un brazo robótico con pinza:

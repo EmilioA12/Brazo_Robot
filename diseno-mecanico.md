@@ -4,7 +4,7 @@ title: Diseño mecánico
 nav_order: 2
 ---
 
-# Diseño mecánico del brazo robótico
+# Diseño mecánico del brazo robot
 
 ## En esta página
 {: .no_toc }
