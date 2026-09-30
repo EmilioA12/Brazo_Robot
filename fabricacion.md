@@ -58,7 +58,7 @@ dentados del mecanismo.
 |---|---|
 | Modelo de cortadora láser | Por completar |
 | Material | Por confirmar |
-| Espesor de la lámina | Por confirmar |
+| Espesor de la lámina | 6 mm |
 | Software de preparación | Por completar |
 | Potencia de corte | Por completar |
 | Velocidad de corte y unidades | Por completar |
