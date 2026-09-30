@@ -6,6 +6,33 @@ nav_order: 1
 
 # Brazo robótico: impresión 3D y corte láser
 
+<p class="fs-6 fw-300">
+  Fabricación de dos versiones de un brazo robótico con pinza:
+  del modelo CAD a las piezas físicas.
+</p>
+
+<div class="robot-galeria">
+  <figure class="robot-tarjeta">
+    <img src="{{ '/assets/images/piezas_impresas.jpeg' | relative_url }}" alt="Piezas impresas del brazo robótico en amarillo, blanco y negro">
+    <figcaption>
+      <strong>Impresión 3D</strong>
+      Piezas fabricadas para la estructura y los mecanismos del robot, antes del ensamble.
+    </figcaption>
+  </figure>
+  <figure class="robot-tarjeta">
+    <img src="{{ '/assets/images/piezas_laser.jpeg' | relative_url }}" alt="Paneles, barras y elementos del brazo cortados en láser">
+    <figcaption>
+      <strong>Corte láser</strong>
+      Piezas fabricadas en material de 6 mm. El diseño original fue adaptado en el taller.
+    </figcaption>
+  </figure>
+</div>
+
+<div class="robot-accesos">
+  <a class="robot-boton" href="{{ '/diseno-mecanico.html' | relative_url }}">Explorar diseño y modelo 3D</a>
+  <a class="robot-boton" href="{{ '/fabricacion.html' | relative_url }}">Ver fabricación</a>
+</div>
+
 ## Presentación
 
 Este proyecto documenta la fabricación y el ensamble de dos

@@ -6,6 +6,12 @@ nav_order: 2
 
 # Diseño mecánico del brazo robótico
 
+## En esta página
+{: .no_toc }
+
+1. Contenido
+{:toc}
+
 El proyecto utiliza un modelo CAD de referencia de un brazo
 robótico con pinza para desarrollar dos versiones físicas:
 una mediante impresión 3D y otra mediante corte láser.
