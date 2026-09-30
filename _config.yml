@@ -1,0 +1,23 @@
+title: "Brazo robótico"
+description: "Documentación de fabricación mediante impresión 3D y corte láser"
+
+url: "https://emilioa12.github.io"
+baseurl: "/Brazo_Robot"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+lang: es
+color_scheme: light
+search_enabled: true
+
+aux_links:
+  "Ver repositorio":
+    - "https://github.com/EmilioA12/Brazo_Robot"
+
+aux_links_new_tab: true
+
+exclude:
+  - README.md
