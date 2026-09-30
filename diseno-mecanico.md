@@ -14,11 +14,11 @@ El objetivo es obtener un robot de al menos tres grados de
 libertad, además del accionamiento de la pinza, y evaluar
 su capacidad para tomar un objeto.
 
-## 1. Organización del conjunto
+## 1. Organización de partes del ensamble
 
 El modelo se organiza en los siguientes grupos:
 
-| Grupo | Función |
+| Parte | Función |
 |---|---|
 | Caja y estructura de base | Proporcionar soporte al conjunto y espacio para componentes. |
 | Soportes de articulaciones | Alojar componentes y establecer las uniones móviles. |

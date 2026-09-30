@@ -15,8 +15,6 @@ de los materiales, equipos y parámetros utilizados.
 ## Impresión 3D
 
 La fotografía muestra las piezas impresas antes del ensamble.
-Se observan paneles, soportes y elementos del mecanismo,
-fabricados en amarillo, blanco y negro.
 
 ![Piezas fabricadas mediante impresión 3D]({{ '/assets/images/piezas_impresas.jpeg' | relative_url }})
 
@@ -56,7 +54,7 @@ dentados del mecanismo.
 
 | Parámetro | Valor utilizado |
 |---|---|
-| Modelo de cortadora láser | Por completar |
+| Modelo de cortadora láser | MMM |
 | Material | MDF |
 | Espesor de la lámina | 6 mm |
 | Software de preparación | LightBurn |
