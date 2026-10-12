@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fabricación
-nav_order: 5
+nav_order: 3
 ---
 
 # Fabricación de las piezas
@@ -21,6 +21,10 @@ La fotografía muestra las piezas impresas antes del ensamble.
 *Figura 1. Piezas impresas en 3D antes del ensamble.*
 
 ### Material y configuración
+
+Los siguientes valores se conservan del registro previo del proyecto.
+Su correspondencia con la configuración realmente utilizada debe confirmarse
+con el archivo de laminado o las capturas de la máquina.
 
 | Parámetro | Valor utilizado |
 |---|---|
@@ -50,18 +54,32 @@ dentados del mecanismo.
 
 *Figura 2. Piezas cortadas en láser antes del ensamble.*
 
+### Distribución de piezas para corte
+
+[![Distribución de los contornos de las piezas del brazo para corte láser]({{ '/assets/images/Corte_laser_brazo.png' | relative_url }})]({{ '/assets/images/Corte_laser_brazo.png' | relative_url }})
+
+*Figura 3. Vista de los contornos de paneles, eslabones, soportes y elementos dentados. Pulsa la imagen para ampliarla.*
+
+La captura permite observar la distribución de las piezas en el plano de corte.
+El material reportado para la fabricación es **MDF de 6 mm**. La imagen no
+permite comprobar la escala, las cotas ni el ajuste de los encastres; tampoco
+sustituye el archivo vectorial utilizado en la máquina.
+
 ### Material y configuración
 
-| Parámetro | Valor utilizado |
+Los parámetros no respaldados por registros de máquina se presentan como
+referencias pendientes de confirmar.
+
+| Parámetro | Valor o estado del registro |
 |---|---|
-| Modelo de cortadora láser | MMM |
+| Modelo de cortadora láser | Pendiente de identificar; el registro anterior indicaba «MMM» |
 | Material | MDF |
 | Espesor de la lámina | 6 mm |
-| Software de preparación | LightBurn |
-| Potencia de corte | 80 % |
-| Velocidad de corte y unidades | 12mm/s equivalente a 720 mm/min |
-| Número de pasadas | 1; ajustar a 2 según prueba de corte |
-| Tiempo de corte | 20 minutos como ejemplo; confirmar con el recorrido del archivo |
+| Software de preparación | LightBurn, según registro previo; confirmar |
+| Potencia de corte | 80 %, valor de referencia por confirmar |
+| Velocidad de corte y unidades | 12 mm/s = 720 mm/min, valor de referencia por confirmar |
+| Número de pasadas | Pendiente de registrar; el texto anterior proponía 1 o 2 según prueba |
+| Tiempo de corte | Pendiente de medir; los 20 minutos del registro anterior eran un ejemplo |
 
 ### Adaptación del archivo de corte
 

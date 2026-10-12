@@ -47,6 +47,11 @@ El modelo mostrado corresponde al diseño CAD de referencia.
 Las adaptaciones realizadas durante la fabricación se
 documentan por separado.
 
+El STEP contiene componentes de referencia, entre ellos una placa Arduino
+y portapilas. Estos elementos no representan la electrónica seleccionada
+para esta implementación: la propuesta actual utiliza **ESP32-C3 SuperMini
+y fuente externa de 5 V**, descritos en [Electrónica]({{ '/electronica.html' | relative_url }}).
+
 ## 3. Visualización 3D interactiva
 
 Arrastra sobre el modelo para girarlo y utiliza la rueda

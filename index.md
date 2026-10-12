@@ -31,6 +31,8 @@ nav_order: 1
 <div class="robot-accesos">
   <a class="robot-boton" href="{{ '/diseno-mecanico.html' | relative_url }}">Explorar diseño y modelo 3D</a>
   <a class="robot-boton" href="{{ '/fabricacion.html' | relative_url }}">Ver fabricación</a>
+  <a class="robot-boton" href="{{ '/electronica.html' | relative_url }}">Ver electrónica y PCB</a>
+  <a class="robot-boton" href="{{ '/estado-entrega.html' | relative_url }}">Consultar avance de la entrega</a>
 </div>
 
 ## Presentación
@@ -39,15 +41,17 @@ Este proyecto documenta la fabricación y el ensamble de dos
 versiones de un brazo robótico con pinza: una mediante impresión
 3D y otra mediante corte láser.
 
-La documentación reúne el diseño mecánico, los planos de las
-piezas, los modelos CAD, las imágenes renderizadas, las evidencias
-de fabricación y las pruebas de funcionamiento.
+La documentación reúne los modelos CAD, las evidencias de piezas
+fabricadas y la propuesta de electrónica con ESP32-C3 SuperMini.
+Los planos, el montaje, la programación y las pruebas se incorporarán
+conforme se cuente con los archivos y las evidencias correspondientes.
 
 ## Objetivo
 
 Construir y evaluar dos versiones de un robot de al menos tres
-grados de libertad y una pinza, capaces de tomar un objeto,
-preferentemente una pelota roja de espuma.
+grados de libertad y una pinza, capaces de sujetar una pelota de
+espuma de aproximadamente 7 cm de diámetro. El documento del proyecto
+requiere operación manual y mediante una interfaz web local por WiFi.
 
 ## Equipo de trabajo
 
@@ -75,11 +79,18 @@ preferentemente una pelota roja de espuma.
 8. Ensamble físico de ambos robots.
 9. Pruebas de agarre y resultados.
 10. Archivos descargables y referencias del diseño.
+11. Electrónica: bloques, componentes, conexiones, alimentación y PCB.
+12. Programación, control manual y WiFi, e integración del sistema.
+13. Comparación de las versiones y conclusiones basadas en pruebas.
+
+La lista anterior describe el alcance previsto. El detalle de lo disponible
+y lo pendiente puede consultarse en [Estado de la entrega]({{ '/estado-entrega.html' | relative_url }}).
 
 ## Avance documentado
 
 Se cuenta con fotografías de piezas fabricadas mediante
-impresión 3D y corte láser.
+impresión 3D y corte láser, una captura de los contornos para corte
+y las imágenes de la propuesta de conexiones y PCB.
 
 La verificación del inventario, el ensamble físico y las pruebas
 de funcionamiento se documentarán en sus respectivas secciones.

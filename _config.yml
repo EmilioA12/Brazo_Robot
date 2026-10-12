@@ -1,5 +1,5 @@
 title: "Brazo robótico"
-description: "Documentación de fabricación mediante impresión 3D y corte láser"
+description: "Brazo robótico en PLA y MDF: diseño, fabricación y propuesta de electrónica con ESP32-C3"
 
 url: "https://emilioa12.github.io"
 baseurl: "/Brazo_Robot"
