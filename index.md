@@ -55,7 +55,7 @@ requiere operación manual y mediante una interfaz web local por WiFi.
 
 ## Equipo de trabajo
 
-- Integrantes: Emilio Acuña.
+- Integrantes: Emilio Acuña, Joel, Alonso.
 - Materia: Integración Mecatrónica.
 - Profesor: Huber Giron, Janet López.
 - Institución: Universidad Iberoamericana.
